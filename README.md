@@ -4,7 +4,7 @@ This project was my final submission for the Coursera Specialisation: Learn SQL 
 
 This project demonstrates the following skills:
  - SQLite queries in a Python environment using the Pandasql package
- - Developed complex subqueries to define new metrics measuring gender equality in Olympics Games and their sports
+ - Developed complex subqueries to define new metrics measuring gender equality at the Olympics Games
  - Data wrangling with Pandas
  - Visualisations using the Python packages Matplotlib, Seaborn and Bokeh
 
