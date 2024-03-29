@@ -1,3 +1,9 @@
-# An analysis of Olympics data using SQL queries within Python
+# Gender Equality at the Olympic Games
 
-I submitted this project as the final assessment for my Coursera Specialisation: Learn SQL Basics for Data Science. It served as an excellent way to combine my existing Python skills with SQL queries to perform an analysis of the gender balance of Olympic Games and events over time.
+This project was my final submission for the Coursera Specialisation: Learn SQL Basics for Data Science. 
+
+This project demonstrates the following skills:
+ - SQLite queries in a Python environment using the Pandasql package
+ - Developed complex subqueries to define new metrics measuring gender equality in Olympics Games and their sports.
+ - Data wrangling with Pandas
+ - Visualisations using the Python packages Matplotlib, Seaborn and Bokeh
